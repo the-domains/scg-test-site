@@ -1,0 +1,28 @@
+name: SCG Test Site
+favicon: null
+layout_spectrum: 0.06942604365758598
+typography_spectrum: 0.5657291454263031
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4136854470707476
+  lightness: 0.3512019491754472
+  saturation: 0.5251386582385749
+  rhythmicContrast: 0.82080143596977
+purpose: []
