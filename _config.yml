@@ -1,19 +1,4 @@
-name: SCG Test Site
-favicon: null
-layout_spectrum: 0.06942604365758598
 typography_spectrum: 0.5657291454263031
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,23 @@ color:
   lightness: 0.3512019491754472
   saturation: 0.5251386582385749
   rhythmicContrast: 0.82080143596977
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.06942604365758598
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: SCG Test Site
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: asdfas
+    id: b381ced5-9543-4255-b567-7d1769bb585c
+    type: content
+favicon: null
 purpose: []
